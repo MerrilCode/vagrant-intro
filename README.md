@@ -42,6 +42,7 @@ Now you can
  Trying another line
  Trying another line to check github plugin for commit status
  New line for merging on github
+ New line for merging on github2
 
 
 
