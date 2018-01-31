@@ -44,6 +44,7 @@ Now you can
  New line for merging on github
  New line for merging on github2
  new line for plugin for merging
+ Testing for git merge
 
 
 
