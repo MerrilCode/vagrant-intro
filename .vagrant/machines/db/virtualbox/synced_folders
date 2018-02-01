@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/ubuntu/db":{"guestpath":"/home/ubuntu/db","hostpath":"/Users/tech-a67/classwork/devops/vagrant-intro/environment/db","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tech-a67/classwork/devops/vagrant-intro","disabled":false,"__vagrantfile":true}}}
