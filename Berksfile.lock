@@ -1,0 +1,11 @@
+DEPENDENCIES
+  db
+    git: git@github.com:MerrilCode/Cookbook-mongodb.git
+    revision: e16ae5922b94d38f8d149de7082182b3f4c418cb
+  node
+    git: git@github.com:MerrilCode/Cookbook-node.git
+    revision: 962d286a7385eaa17337ad1d6e9fd2ea103bd076
+
+GRAPH
+  db (0.1.0)
+  node (0.1.0)
