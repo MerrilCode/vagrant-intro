@@ -42,7 +42,7 @@ Now you can
  New project testing
  
  
- 
+put export DB_HOST=mongodb://ipaddress:portnumber to connect the database to app inside app instance 
  
  
 
