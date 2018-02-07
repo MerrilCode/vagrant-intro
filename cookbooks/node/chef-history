@@ -1,0 +1,46 @@
+ 4608  cd ~/classwork
+ 4609  chef --version
+ 4610  git clone git@github.com:MerrilCode/Cookbook.git
+ 4611  ssh-add ~/.ssh/Github
+ 4612  git clone git@github.com:MerrilCode/Cookbook.git
+ 4613  cd Cookbook
+ 4614  chef generate cookbook node
+ 4615  cd node
+ 4616  subl .
+ 4617  kitchen create
+ 4618  kitchen login
+ 4619  kitchen converge
+ 4620  kitchen login
+ 4621  kitchen converge
+ 4622  kitchen verify
+ 4623* cd ~/classwork/devops/vagrant-intro
+ 4624* ls
+ 4625* subl .
+ 4626  kitchen verify
+ 4627  kitchen converge
+ 4628  ls
+ 4629  kitchen verify
+ 4630  kitchen converge
+ 4631  kitchen verify
+ 4632  kitchen converge
+ 4633  kitchen verify
+ 4634  kitchen converge
+ 4635  kitchen verify
+ 4636  kitchen converge
+ 4637  kitchen verify
+ 4638  chef generate template proxy.conf
+ 4639  kitchen login
+ 4640  kitchen converge
+ 4641  kitchen verify
+ 4642  kitchen converge
+ 4643  kitchen verify
+ 4644  kitchen converge
+ 4645  kitchen verify
+ 4646  kitchen login
+ 4647  inspect --version
+ 4648  inspec --version
+ 4649  kitchen converge
+ 4650  kitchen verify
+ 4651  cd ..
+ 4652  git add .
+ 4653  git commit -m"Added chef cookbook"
