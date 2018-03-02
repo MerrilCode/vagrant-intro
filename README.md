@@ -40,6 +40,7 @@ Now you can
 
  Trying develop branch
  New project testing
+ Adding something to test jenkins
  
  
 put export DB_HOST=mongodb://ipaddress:portnumber to connect the database to app inside app instance 
