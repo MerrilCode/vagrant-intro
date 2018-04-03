@@ -39,8 +39,7 @@ Now you can
  Added webhook from github
 
  Trying develop branch
- New project testing
- 
+ Trying build with teamcity 
  
 put export DB_HOST=mongodb://ipaddress:portnumber to connect the database to app inside app instance 
  
