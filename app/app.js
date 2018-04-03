@@ -5,6 +5,7 @@ var mongoose = require('mongoose');
 var Post = require('./models/post');
 var AdvancedMaths = require('./modules/advanced-maths');
 var cors = require('cors');
+var mocha = require('mocha-teamcity-reporter');
 
 app.set('view engine' , 'ejs');
 
