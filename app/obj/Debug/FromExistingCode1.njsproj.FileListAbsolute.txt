@@ -1,0 +1,3 @@
+C:\Users\merril\teamcity\vagrant-intro\app\obj\Debug\FromExistingCode1.njsprojResolveAssemblyReference.cache
+C:\Users\merril\teamcity\vagrant-intro\app\obj\Debug\FromExistingCode1.njsproj.CoreCompileInputs.cache
+C:\Users\merril\teamcity\vagrant-intro\app\bin\Microsoft.NodejsTools.WebRole.dll
